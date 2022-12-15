@@ -14,7 +14,9 @@ Hola @contributors, we invite you to design the Campus OLX website, to use your 
 
 ## 🛠️Tech Stack:
 
-- Figma/Adobe XD
+- FigJam
+- Figma
+- Adobe Illustrator
 
 </br>
 
