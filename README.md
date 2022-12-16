@@ -3,12 +3,12 @@ An Imperative Web Design Repository
 </br>
 </br>
 
-> Website design is an extremely crucial aspect as it determines the very first impression we make on our audience. It impacts how our audience perceives us and this impression can either get them to remain on our page or leave it.
-> 
+Hola @contributors, we invite you to design the Campus OLX website, to use your creativity and design skills to tailor this website from the very beginning, from thinking about the user flow to implementing the visual design you have got to do it all!
 
 </br>
 
-Hola @contributors, we invite you to design the Campus OLX website, to use your creativity and design skills to tailor this website from the very beginning, from thinking about the user flow to implementing the visual design you have got to do it all!
+> Website design is an extremely crucial aspect as it determines the very first impression we make on our audience. It impacts how our audience perceives us and this impression can either get them to remain on our page or leave it.
+> 
 
 </br>
 
