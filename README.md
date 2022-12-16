@@ -1,6 +1,7 @@
 # CampusOLX 🛒
 An Imperative Web Design Repository
 </br>
+CampusOLX as the name suggests is a website that gives buyers and sellers a platform where they can buy second-hand items so that they can arrange for hostel needs economically while letting the sellers sell the items that are no more in use. 
 </br>
 
 Hola @contributors, we invite you to design the Campus OLX website, to use your creativity and design skills to tailor this website from the very beginning, from thinking about the user flow to implementing the visual design you have got to do it all!
