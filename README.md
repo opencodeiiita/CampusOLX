@@ -33,12 +33,11 @@ Hola @contributors, we invite you to design the Campus OLX website, to use your 
 
 ## 📃Common Guidelines:
 
-- The Repository is divided into several tasks. Each task will be opened subsequently for a limited amount of time and all the submissions have to be made within those allotted days only. NO submission will be accepted after the allotted time ends. The details for the specific tasks and the time allotted for each can be found in their specific folders.
-- The submissions will be scored by the mentors, out of maximum points for that particular issue, based on the various aspects of design like design thinking, originality, visual appeal, etc. The best submission will be awarded full points.
-- The submissions will be judged by the mentors and points will be allotted by them for each particular task based on various aspects and intricacies of design like design thinking process, originality of the idea, visual appeal of the submission, etc.
-    
-All the designs that qualify the **Minimum Design Criteria (MDC)**, will be awarded full points, rest have to make improvements in their design till their PR is merged.
-    
+- The repository is divided into several tasks. **Each task will be opened subsequently for a limited amount of time and all the submissions have to be made within those allotted days only.** NO submission will be accepted after the allotted time ends. The details for the specific tasks and the time allotted for each can be found in their specific folders.
+- The mentors will evaluate the submissions and assign points for each specific task based on a variety of design-related factors, such as the use of design thinking, the uniqueness of the idea, the submission's visual attractiveness, etc.
+- Since everyone should be awarded for their efforts, the participants who qualify for the **Minimum Design Criteria (MDC)** as mentioned in the respective folders of the task will be awarded Full Points🎉
+- Since the goals of these tasks are learning design rather than only earning points, any plagiarism or attempt at it will be frowned upon and will result in disqualification from OpenCode. You can always ping us with questions, and we'll be pleased to answer them, but merely duplicating other people's ideas to finish the jobs will be strongly prohibited.
+  
 
 </br>
 
