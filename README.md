@@ -35,15 +35,9 @@ Hola @contributors, we invite you to design the Campus OLX website, to use your 
 
 - The Repository is divided into several tasks. Each task will be opened subsequently for a limited amount of time and all the submissions have to be made within those allotted days only. NO submission will be accepted after the allotted time ends. The details for the specific tasks and the time allotted for each can be found in their specific folders.
 - The submissions will be scored by the mentors, out of maximum points for that particular issue, based on the various aspects of design like design thinking, originality, visual appeal, etc. The best submission will be awarded full points.
-- The submissions will be judged by the mentors and points will be allotted by them for each particular task based on various aspects and intricacies of design like design thinking process, originality of the idea, visual appeal of the submission, etc. The points will be distributed as follows:
+- The submissions will be judged by the mentors and points will be allotted by them for each particular task based on various aspects and intricacies of design like design thinking process, originality of the idea, visual appeal of the submission, etc.
     
-    🥇 1st Place : *Full points*
-    
-    🥈 2nd Place: *0.8 x Full Points*
-    
-    🥉 3rd Place: *0.5 x Full Points*
-    
-    The rest of the participants who qualify for the **Minimum Design Criteria (MDC)**, which will be mentioned in the respective folders of the task once submission duration begins, will be awarded *0.3 x Full Points*.
+All the designs that qualify the **Minimum Design Criteria (MDC)**, will be awarded full points, rest have to make improvements in their design till their PR is merged.
     
 
 </br>
