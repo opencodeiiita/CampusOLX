@@ -11,7 +11,6 @@ Hola @contributors, we invite you to design the Campus OLX website, to use your 
 > Website design is an extremely crucial aspect as it determines the very first impression we make on our audience. It impacts how our audience perceives us and this impression can either get them to remain on our page or leave it.
 > 
 </br>
-</br>
 
 ## 🛠️Tech Stack:
 
