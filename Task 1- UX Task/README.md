@@ -4,7 +4,7 @@ NO submission will be accepted after **18th October, 11:59 PM**.
 
 Your **First Task** is based on a basic understanding of User Experience and User-flow. This is a **15 points** task.
 
-CampusOLX as the name suggests is a website that gives buyers and sellers a platform where they can buy second-hand items so that they can arrange for hostel needs economically while letting the sellers sell the items that are no more in use. 
+CampusOLX, as the name implies, is a local online marketplace specifically designed for students at IIIT-A to buy and sell second-hand items, such as furniture, electronics, and other household goods. By providing a platform for students to sell items they no longer need or use, CampusOLX can help students save money on living expenses and make it easier for them to find affordable products. It can also be a convenient way for students to sell items they no longer need, allowing them to declutter and make some extra money. The website provides the convenience of being able to buy and sell items directly with other students on campus may make it an appealing option for students at IIIT-A.
 
 The task needs to be done on **FigJam**. FigJam is free to use and doesn't need to download. It is very easy to learn and hardly takes 15 minutes to learn. If you are unclear on how to use it, check the tutorial here: [https://www.youtube.com/watch?v=RVNuArHH5WM](https://www.youtube.com/watch?v=RVNuArHH5WM)
 
