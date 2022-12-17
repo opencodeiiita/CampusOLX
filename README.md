@@ -70,7 +70,8 @@ We welcome your contributions. Please follow the below guidelines while contribu
 
 > Check out GitHub Flow for more details.
 </br>
-## Quick Resources:
+
+## ✒️**Quick Resources:**
 
 Since you have scrolled this far, here are some short resources to give you an edge over others😉:
 
