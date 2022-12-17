@@ -79,5 +79,5 @@ Since you have scrolled this far, here are some short resources to give you an e
 - [UI Guidlines](https://www.youtube.com/playlist?list=PLDtHAiqIa4wa5MBbE_XDoqY51sAkQnkjt)
 
 </br> 
-## ♥️**Our Top Contributors**
+## Our Top Contributors 💛
 <img src="https://contrib.rocks/image?repo=opencodeiiita/CampusOLX"/>
