@@ -70,6 +70,13 @@ We welcome your contributions. Please follow the below guidelines while contribu
 
 > Check out GitHub Flow for more details.
 </br>
+## Quick Resources:
 
+Since you have scrolled this far, here are some short resources to give you an edge over others😉:
+
+- [UX Principles](https://lawsofux.com/)
+- [UI Guidlines](https://www.youtube.com/playlist?list=PLDtHAiqIa4wa5MBbE_XDoqY51sAkQnkjt)
+
+</br> 
 ## Our Top Contributors ♥️
 <img src="https://contrib.rocks/image?repo=opencodeiiita/SaveMyForm-Backend"/>
