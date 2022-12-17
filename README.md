@@ -1,8 +1,9 @@
 # CampusOLX 🛒
 An Imperative Web Design Repository
 </br>
-</br>
-CampusOLX, as the name implies, is a website that provides buyers and sellers with a platform where they can buy used items to save money on hostel expenses while allowing sellers to sell items that are no longer in use.
+</br> 
+CampusOLX, as the name implies, is a local online marketplace specifically designed for students at IIIT-A to buy and sell second-hand items, such as furniture, electronics, and other household goods. By providing a platform for students to sell items they no longer need or use, CampusOLX can help students save money on living expenses and make it easier for them to find affordable products. It can also be a convenient way for students to sell items they no longer need, allowing them to declutter and make some extra money. The website provides the convenience of being able to buy and sell items directly with other students on campus may make it an appealing option for students at IIIT-A.
+
 </br>
 </br>
 Hola @contributors, we invite you to design the Campus OLX website, to use your creativity and design skills to tailor this website from the very beginning, from thinking about the user flow to implementing the visual design you have got to do it all!
@@ -21,6 +22,17 @@ Hola @contributors, we invite you to design the Campus OLX website, to use your 
 </br>
 
 ## ⏳The Design Timeline:
+
+| Task             | Duration of Submission                                              | Difficulty Level      | Maximum Points    |
+| ----------------- | ------------------------------------------------------------------ | ---------------------- | ----------------- |
+| Task 1: UX Task | 17th - 20nd December | Rookie | 10 |
+| Task 2: Hero Section Design | 21th - 26th December | Skilled | 20 |
+| Task 3: Home Page Section-1 | 27th - 29th December  | Advanced | 30 |
+| Task 4: Home Page Section-2 | 30th - 2th December |  Advanced | 30 |
+| Task 4: Home Page Section-3 | 3th - 5th January | Advanced | 30 |
+| Task 5: Footer Design | 6th - 8th January | Advanced | 30 |
+| Task 6: Designing Major Functioning Pages | 8th - 13th January | Expert | 50 |
+| Task 7: Logo Design | 13th - 15th January | Advanced | 30 ||
 
 </br>
 
