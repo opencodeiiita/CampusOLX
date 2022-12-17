@@ -3,7 +3,6 @@ An Imperative Web Design Repository
 </br>
 </br> 
 CampusOLX, as the name implies, is a local online marketplace specifically designed for students at IIIT-A to buy and sell second-hand items, such as furniture, electronics, and other household goods. By providing a platform for students to sell items they no longer need or use, CampusOLX can help students save money on living expenses and make it easier for them to find affordable products. It can also be a convenient way for students to sell items they no longer need, allowing them to declutter and make some extra money. The website provides the convenience of being able to buy and sell items directly with other students on campus may make it an appealing option for students at IIIT-A.
-
 </br>
 </br>
 Hola @contributors, we invite you to design the Campus OLX website, to use your creativity and design skills to tailor this website from the very beginning, from thinking about the user flow to implementing the visual design you have got to do it all!
