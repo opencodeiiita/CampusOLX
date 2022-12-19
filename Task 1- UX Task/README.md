@@ -1,6 +1,6 @@
 **OPEN TO ALL.**
 NO need to claim this issue.
-NO submission will be accepted after **18th October, 11:59 PM**.
+NO submission will be accepted after **20th December, 11:59 PM**.
 
 Your **First Task** is based on a basic understanding of User Experience and User-flow. This is a **15 points** task.
 
