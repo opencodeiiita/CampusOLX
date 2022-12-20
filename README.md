@@ -25,9 +25,9 @@ Hola @contributors, we invite you to design the Campus OLX website, to use your 
 | Task             | Duration of Submission                                              | Difficulty Level      | Maximum Points    |
 | ----------------- | ------------------------------------------------------------------ | ---------------------- | ----------------- |
 | Task 1: UX Task | 17th - 20nd December | Rookie | 10 |
-| Task 2: Hero Section Design | 21th - 26th December | Skilled | 20 |
+| Task 2: Hero Section Design | 21th - 26th December | Advanced | 30 |
 | Task 3: Home Page Section-1 | 27th - 29th December  | Advanced | 30 |
-| Task 4: Home Page Section-2 | 30th - 2th December |  Advanced | 30 |
+| Task 4: Home Page Section-2 | 30th - 2th December |  Skilled | 20 |
 | Task 4: Home Page Section-3 | 3th - 5th January | Advanced | 30 |
 | Task 5: Footer Design | 6th - 8th January | Advanced | 30 |
 | Task 6: Designing Major Functioning Pages | 8th - 13th January | Expert | 50 |
