@@ -1,6 +1,6 @@
 **OPEN TO ALL.**
 NO need to claim this issue.
-NO submission will be accepted after **22nd December, 12 Noon**.
+NO submission will be accepted after **23rd December, 12 Noon**.
 
 Your Second **Small Side Task** is based on copying the hero section of a website and learning. This is a **20 points** task.
 
